@@ -9,7 +9,7 @@
 
 # Resolve merge conflicts
 
-_Learn why conflicts happen and how to resolve them._
+_Learn why conflicts happen and how to resolve them. Comment 1_
 
 </header>
 
